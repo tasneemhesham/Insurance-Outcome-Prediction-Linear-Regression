@@ -9,7 +9,7 @@ The dataset used for this project contains the following information:
 - **Age**: The age of the individual.
 - **Insurance Cost**: The insurance premium or cost for the individual.
 
-The dataset is stored in a CSV file, `insurance_data.csv`, with columns for Age and Insurance Cost.
+The dataset is stored in a CSV file, `insurance.csv`, with columns for Age and Insurance Cost.
 
 ## Features
 - **Linear Regression Model**: A simple linear regression model that predicts insurance costs based on age.
